@@ -14,5 +14,5 @@ This project is an intelligent LinkedIn post generator built using **Python**, *
 
 ---
 
-## 📂 Project Structure
+
 
